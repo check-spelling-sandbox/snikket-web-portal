@@ -1,0 +1,23 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-patterns
+
+\bGoogle Play\b
+rel=\\"noopener noreferrer\\"
+target=\\"_blank\\"
+
+# Automatically suggested patterns
+
+# hit-count: 799 file-count: 1
+# po file metadata
+msgid ".*"|"(?:Project-Id-Version|MIME-Version|Content-Type|Content-Transfer-Encoding|Plural-Forms|X-Generator|Generated-By|POT-Creation-Date|PO-Revision-Date|Last-Translator|Language-Team|Language|Report-Msgid-Bugs-To):\s+.*"|^#.*
+
+# hit-count: 81 file-count: 1
+# printf named terms
+%\(\w+\)[sd]\b
+
+# hit-count: 4 file-count: 1
+# html attributes
+</?span.*?>
+
+# hit-count: 1 file-count: 1
+# https/http/file urls
+(?:\b(?:https?|ftp|file)://)[-A-Za-z0-9+&@#/*%?=~_|!:,.;\\]+[-A-Za-z0-9+&@#/*%=~_|]

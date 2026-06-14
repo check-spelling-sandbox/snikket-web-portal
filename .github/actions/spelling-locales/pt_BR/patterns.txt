@@ -1,0 +1,5 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-patterns
+
+\bGoogle Play\b
+rel=\\"noopener noreferrer\\"
+target=\\"_blank\\"

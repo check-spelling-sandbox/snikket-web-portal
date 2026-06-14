@@ -1,0 +1,5 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-patterns
+
+# hit-count: 1 file-count: 1
+# printf named terms
+%\(\w+\)[sd]\b
