@@ -28,7 +28,7 @@ initialise the environment variables in a python file. To do that, pass the
 path to the python file as `SNIKKET_WEB_PYENV` environment variable.
 
 The python file is evaluated before further environment variable processing
-takes place. Every name defined in that file which begins with an upper case
+takes place. Every name defined in that file which begins with an uppercase
 ASCII letter is included in the processing of environment variables for
 configuration purposes.
 
