@@ -477,7 +477,7 @@ msgid ""
 "website</a>."
 msgstr ""
 "Um mehr über Snikket zu erfahren, kannst du die <a href=\"%(snikket_url)s"
-"\">Snikket website</a> besuchen."
+"\">Snikket Webseite</a> besuchen."
 
 #: snikket_web/templates/about.html:13
 msgid "View service policies"
