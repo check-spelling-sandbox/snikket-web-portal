@@ -377,7 +377,7 @@ msgstr "Підтвердити новий пароль"
 
 #: snikket_web/user.py:47
 msgid "The new passwords must match."
-msgstr "Нові паролі мають співпадати."
+msgstr "Нові паролі мають збігатися."
 
 #: snikket_web/user.py:56
 msgid "Sign out"
