@@ -734,7 +734,7 @@ class ProsodyClient:
 
         async with session.post(self._rest_endpoint, json=req) as resp:
             if resp.status != 200:
-                return "unknwn"
+                return "unknown"
             try:
                 return (await resp.json())["version"]["version"]
             except Exception as exc:
