@@ -1103,7 +1103,7 @@ msgstr "Affiche les détails de l’invitation"
 
 #: snikket_web/templates/admin_invites.html:49
 msgid "Copy invite link to clipboard"
-msgstr "Copie le lien d’invitation dans le presse-papier"
+msgstr "Copier le lien d’invitation dans le presse-papier"
 
 #: snikket_web/templates/admin_invites.html:52
 msgid "Share invitation link"
