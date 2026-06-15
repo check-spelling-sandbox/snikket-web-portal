@@ -1365,7 +1365,7 @@ msgid ""
 "If you plan to use a legacy XMPP client, you can register an account online "
 "and enter your credentials into any XMPP-compatible software."
 msgstr ""
-"Si vous prévoyez d’utiliser un client XMPP, vous pouvez ouvrir un compte en "
+"Si vous prévoyez d’utiliser un client XMPP ancien, vous pouvez ouvrir un compte en "
 "ligne et saisir vos indentifiants dans tout logiciel compatible XMPP."
 
 #: snikket_web/templates/invite_register.html:27
