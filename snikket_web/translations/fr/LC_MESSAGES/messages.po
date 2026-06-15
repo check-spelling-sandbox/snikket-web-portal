@@ -1477,7 +1477,7 @@ msgid ""
 "above button or scanning the QR code does not work for you."
 msgstr ""
 "Vous pouvez aussi <a href=\"%(reset_url)s\">réinitialiser votre mot de passe "
-"en ligne</a> si le bouton ci-dessus ou le scan du QR code ne fonctionnent "
+"en ligne</a> si le bouton ci-dessus ou le scan du QR code ne fonctionne "
 "pas pour vous."
 
 #: snikket_web/templates/invite_success.html:5
