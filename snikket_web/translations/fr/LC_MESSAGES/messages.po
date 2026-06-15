@@ -1136,7 +1136,7 @@ msgstr ""
 
 #: snikket_web/templates/admin_reset_user_password.html:22
 msgid "Destroy link"
-msgstr "Supprimer le lien"
+msgstr "Détruire le lien"
 
 #: snikket_web/templates/admin_system.html:6
 msgid "Overall system status"
