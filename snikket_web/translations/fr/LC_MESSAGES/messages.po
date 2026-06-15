@@ -1766,7 +1766,7 @@ msgstr ""
 #: snikket_web/templates/library.j2:184
 msgid "Invite a single person (invitation link can only be used once)."
 msgstr ""
-"Inviter une seule personne (le lien d’invitaton ne peut être utilisé qu’une "
+"Inviter une seule personne (le lien d’invitation ne peut être utilisé qu’une "
 "seule fois)."
 
 #: snikket_web/templates/library.j2:186
