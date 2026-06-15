@@ -541,7 +541,7 @@ msgid ""
 "\"%(source_url)s\">its GitHub repository</a>."
 msgstr ""
 "El código fuente del portal web puede ser descargado y visto en <a href="
-"\"%(source_url)s\">su repositorio de Github</a>."
+"\"%(source_url)s\">su repositorio de GitHub</a>."
 
 #: snikket_web/templates/about.html:18
 #, python-format
