@@ -1249,7 +1249,7 @@ msgstr "Supprimé·e"
 
 #: snikket_web/templates/admin_users.html:24
 msgid "Locked"
-msgstr "Désactivé·e"
+msgstr "Bloqué·e"
 
 #: snikket_web/templates/app.html:4
 msgid "Snikket Web Portal"
