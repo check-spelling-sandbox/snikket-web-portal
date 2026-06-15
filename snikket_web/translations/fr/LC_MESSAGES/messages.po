@@ -1366,7 +1366,7 @@ msgid ""
 "and enter your credentials into any XMPP-compatible software."
 msgstr ""
 "Si vous prévoyez d’utiliser un client XMPP ancien, vous pouvez ouvrir un compte en "
-"ligne et saisir vos indentifiants dans tout logiciel compatible XMPP."
+"ligne et saisir vos identifiants dans tout logiciel compatible XMPP."
 
 #: snikket_web/templates/invite_register.html:27
 msgid ""
