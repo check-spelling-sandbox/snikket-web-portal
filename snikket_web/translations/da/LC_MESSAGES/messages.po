@@ -1317,7 +1317,7 @@ msgstr "Inviter til %(site_name)s"
 #: snikket_web/templates/invite_view.html:14
 #, python-format
 msgid "Powered by <img src=\"%(logo_url)s\" alt=\"Snikket\">"
-msgstr "Drevet af<img alt=\"Snikket\" src=\"%(logo_url)s\">"
+msgstr "Drevet af <img alt=\"Snikket\" src=\"%(logo_url)s\">"
 
 #: snikket_web/templates/invite_invalid.html:8
 msgid "Invite expired"
