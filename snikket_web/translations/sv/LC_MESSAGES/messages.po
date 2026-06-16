@@ -469,7 +469,7 @@ msgid ""
 "software from the Snikket project."
 msgstr ""
 "Detta är Snikket-tjänsten <em>%(site_name)s</em> som kör mjukvara med öppen "
-"källkod från Snkkket-projektet."
+"källkod från Snikket-projektet."
 
 #: snikket_web/templates/about.html:11
 #, python-format
