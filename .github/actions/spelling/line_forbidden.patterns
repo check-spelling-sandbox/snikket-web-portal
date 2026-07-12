@@ -126,6 +126,9 @@
 # Should only be one of `a`, `an`, or `the`
 \b(?:(?:a(?! (?:la carte|priori|posteriori))n?|the)\s+){2,}\b
 
+# Should be `an`
+(?<=\sexecute )and(?= invalid\s)
+
 # Should be `a large amount` or `large amounts`
 (?<=\bof )large amount(?= of data\b)
 
@@ -297,6 +300,9 @@
 # Should be `dryer`
 (?i)(?<=\ba clothes )drier\b
 
+# Should be `dump` (or `thumb`...)
+(?i)\bdumb(?= of (?!you|him|her)[a-z]{3,}\b)
+
 # Should be `effect`
 (?<=\btake )affect\b
 
@@ -341,6 +347,9 @@
 
 # Should be `fell`
 (?i)\bfoul(?= swoop)
+
+# Should be `first`
+\bfist(?= pass\b)
 
 # Should be `for`, `for, to` or `to`
 \b(?:for to|(?<!\bup |-)to for)\b
@@ -924,6 +933,9 @@ socio-economic
 
 # Should be `URI` or `uri` unless it refers to a person named `Uri` (or a flag)
 (?<![-\.])\bUri\b(?![(])
+
+# Should be `uses`
+(?<=[a-z] user )users(?= [a-z])
 
 # Should be `it uses is`
 /\bis uses is\b/
